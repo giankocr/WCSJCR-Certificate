@@ -1,0 +1,1 @@
+[23-Jul-2018 13:10:21 CST6CDT] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/wpcostar/public_html/dompdf/lib/php-font-lib/tests/FontLib/FontTest.php on line 7
